@@ -8,6 +8,7 @@ import java.util.Scanner;
  *
  * @author Student
  */
+// This class handles user registration and login through the console
 public class Registration {
 
     /**
