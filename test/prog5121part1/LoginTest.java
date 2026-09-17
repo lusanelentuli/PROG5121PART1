@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package prog5121part1;
-
+// Unit tests for Login class.
 import org.junit.Test;
 import prog5121part1.Login;
 import static org.junit.Assert.assertEquals;
