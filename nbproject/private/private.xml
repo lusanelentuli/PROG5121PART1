@@ -3,10 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Student/Documents/NetBeansProjects/PROG5121PART1/src/prog5121part1/Registration.java</file>
-            <file>file:/C:/Users/Student/Documents/NetBeansProjects/PROG5121PART1/src/prog5121part1/Login.java</file>
-            <file>file:/C:/Users/Student/Documents/NetBeansProjects/PROG5121PART1/test/prog5121part1/LoginTest.java</file>
-            <file>file:/C:/Users/Student/Documents/NetBeansProjects/PROG5121PART1/test/LoginTestNew/java.java</file>
+            <file>file:/C:/Users/Student/Documents/NetBeansProjects/PROG5121PART1/src/prog5121part1/QuickChat.java</file>
+            <file>file:/C:/Users/Student/Documents/NetBeansProjects/PROG5121PART1/src/prog5121part1/Message.java</file>
+            <file>file:/C:/Users/Student/Documents/NetBeansProjects/PROG5121PART1/messages.json</file>
+            <file>file:/C:/Users/Student/Documents/NetBeansProjects/PROG5121PART1/test/prog5121part1/MessageTest.java</file>
+            <file>file:/C:/Users/Student/Documents/NetBeansProjects/PROG5121PART1/test/prog5121part1/QuickChatTest.java</file>
         </group>
     </open-files>
 </project-private>

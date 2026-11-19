@@ -8,7 +8,6 @@ import java.util.regex.Pattern;
  *
  * @author Student
  */
-// This class validates user details and handles login functionality.
 public class Login {
     
     //Declare the user's registration information
